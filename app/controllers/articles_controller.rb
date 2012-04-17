@@ -36,6 +36,5 @@ class ArticlesController < ApplicationController
     flash[:message] = "'#{@article.title}' has been deleted."
     redirect_to :articles
   end
-  
 
 end

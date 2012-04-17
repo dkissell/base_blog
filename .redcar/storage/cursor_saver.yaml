@@ -1,4 +1,72 @@
 --- 
-cursor_positions: []
-
+cursor_positions: 
+  - :path: app/views/articles/_form.html.erb
+    :cursor_offset: 205
+    :timestamp: 2012-04-16 19:13:16 -04:00
+  - :path: app/views/articles/index.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-04-14 21:53:07 -04:00
+  - :path: app/controllers/tag_controller.rb
+    :cursor_offset: 90
+    :timestamp: 2012-04-16 19:16:49 -04:00
+  - :path: app/controllers/comments_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-04-14 21:53:07 -04:00
+  - :path: app/controllers/tags_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-04-16 21:41:53 -04:00
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-04-14 21:53:07 -04:00
+  - :path: app/controllers/articles_controller.rb
+    :cursor_offset: 887
+    :timestamp: 2012-04-16 21:46:22 -04:00
+  - :path: app/models/comment.rb
+    :cursor_offset: 0
+    :timestamp: 2012-04-14 21:53:07 -04:00
+  - :path: app/views/articles/new.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-04-14 21:53:07 -04:00
+  - :path: app/helpers/application_helper.rb
+    :cursor_offset: 51
+    :timestamp: 2012-04-16 19:28:22 -04:00
+  - :path: app/views/tag/show.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-04-14 23:12:25 -04:00
+  - :path: app/views/tag/index.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-04-14 23:12:25 -04:00
+  - :path: app/helpers/comments_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2012-04-14 21:53:07 -04:00
+  - :path: app/helpers/tag_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2012-04-14 23:12:25 -04:00
+  - :path: app/helpers/tags_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2012-04-16 21:41:54 -04:00
+  - :path: app/helpers/articles_helper.rb
+    :cursor_offset: 145
+    :timestamp: 2012-04-16 22:09:34 -04:00
+  - :path: app/models/article.rb
+    :cursor_offset: 105
+    :timestamp: 2012-04-16 21:58:09 -04:00
+  - :path: app/models/tag.rb
+    :cursor_offset: 172
+    :timestamp: 2012-04-16 22:02:39 -04:00
+  - :path: app/models/tagging.rb
+    :cursor_offset: 79
+    :timestamp: 2012-04-16 22:00:39 -04:00
+  - :path: app/views/tags/index.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-04-16 21:41:53 -04:00
+  - :path: app/views/tags/show.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-04-16 21:41:53 -04:00
+  - :path: app/views/articles/show.html.erb
+    :cursor_offset: 68
+    :timestamp: 2012-04-14 23:09:27 -04:00
+  - :path: config/routes.rb
+    :cursor_offset: 0
+    :timestamp: 2012-04-16 21:41:53 -04:00
 files_to_retain: 0
