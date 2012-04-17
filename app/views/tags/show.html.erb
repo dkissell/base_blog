@@ -1,2 +1,14 @@
-<h1>Tags#show</h1>
-<p>Find me in app/views/tags/show.html.erb</p>
+<hgroup>
+  <h1>Articles Tagged with <%= @tag.name %></h1>
+  <h3><%= link_to "delete this tag", tag_path(@tag), :method => :delete, :confirm => "Really delete?" %> </h3>
+</hgroup>
+<ul>
+  <% @tag.articles.each do |article| %>
+  <li><%= link_to article.title, article_path(article) %></li>
+  <% end %>
+</ul>
+
+  <ul>
+    <li>  <%= link_to "Back to Tag List", tags_path %> </li>
+    <li>  <%= link_to "Back to Article List", articles_path %> </li>
+  </ul>
